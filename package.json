@@ -1,0 +1,22 @@
+{
+    "name": "stonerose-vscode",
+    "publisher": "ajguerrer",
+    "displayName": "stonerose",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "stonerose",
+                "uiTheme": "vs-dark",
+                "path": "./themes/stonerose-color-theme.json"
+            }
+        ]
+    }
+}
