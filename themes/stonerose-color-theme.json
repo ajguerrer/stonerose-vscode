@@ -10,7 +10,7 @@
         // "focusBorder": "#f00", //7
         "foreground": "#b7bdc2", //5
         "widget.shadow": "#26292c", //0
-        "selection.background": "#9badbf", //D
+        "selection.background": "#5e676e", //2
         "descriptionForeground": "#7b868e", //3
         "errorForeground": "#c89393", //8
         "icon.foreground": "#9ca4ab", //4
