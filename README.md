@@ -1,3 +1,4 @@
-# stonerose
+# StoneRose
 
-Some might say its "subtle"; others say "its where your eyes go to die".
+Washed out color theme with stony blues and rosy reds. 
+Some might say it's "subtle". Others will say it's "where your eyes go to die".

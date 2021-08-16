@@ -1,9 +1,9 @@
 {
     "name": "stonerose-vscode",
     "publisher": "ajguerrer",
-    "displayName": "stonerose",
+    "displayName": "StoneRose",
     "description": "",
-    "version": "0.0.3",
+    "version": "1.0.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/ajguerrer/stonerose-vscode.git"
@@ -17,7 +17,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "stonerose",
+                "label": "StoneRose",
                 "uiTheme": "vs-dark",
                 "path": "./themes/stonerose-color-theme.json"
             }
