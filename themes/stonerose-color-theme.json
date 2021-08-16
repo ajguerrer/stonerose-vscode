@@ -27,7 +27,7 @@
         "textLink.activeForeground": "#9ac1ad", //C
         "textLink.foreground": "#9badbf", //D
         "textPreformat.foreground": "#9badbf", //D
-        "textSeparator.foreground": "#f0f",
+        // "textSeparator.foreground": "#f0f",
 
         // Button control
         "button.background": "#42484d", //1
@@ -522,7 +522,7 @@
         "symbolIcon.arrayForeground": "#b7bdc2", //5
         "symbolIcon.booleanForeground": "#cbb693", //9
         "symbolIcon.classForeground": "#bf9ba7", //A
-        "symbolIcon.colorForeground": "#f0f",
+        // "symbolIcon.colorForeground": "#f0f",
         "symbolIcon.constantForeground": "#cbb693", //9
         "symbolIcon.constructorForeground": "#9badbf", //D
         "symbolIcon.enumeratorForeground": "#cbb693", //9
@@ -533,24 +533,24 @@
         "symbolIcon.folderForeground": "#b7bdc2", //5
         "symbolIcon.functionForeground": "#9badbf", //D,
         "symbolIcon.interfaceForeground": "#9badbf", //D
-        "symbolIcon.keyForeground": "#f0f",
+        // "symbolIcon.keyForeground": "#f0f",
         "symbolIcon.keywordForeground": "#a29ac1", //E
         "symbolIcon.methodForeground": "#9badbf", //D
         "symbolIcon.moduleForeground": "#b7bdc2", //5
         "symbolIcon.namespaceForeground": "#b7bdc2", //5
         "symbolIcon.nullForeground": "#a29ac1", //E
         "symbolIcon.numberForeground": "#cbb693", //9
-        "symbolIcon.objectForeground": "#f0f",
-        "symbolIcon.operatorForeground": "#f0f",
-        "symbolIcon.packageForeground": "#f0f",
+        // "symbolIcon.objectForeground": "#f0f",
+        // "symbolIcon.operatorForeground": "#f0f",
+        // "symbolIcon.packageForeground": "#f0f",
         "symbolIcon.propertyForeground": "#b7bdc2", //5
-        "symbolIcon.referenceForeground": "#f0f",
+        // "symbolIcon.referenceForeground": "#f0f",
         "symbolIcon.snippetForeground": "#b7bdc2", //5
         "symbolIcon.stringForeground": "#a7bf9b", //B
         "symbolIcon.structForeground": "#bf9ba7", //A
         "symbolIcon.textForeground": "#b7bdc2", //5
-        "symbolIcon.typeParameterForeground": "#f0f",
-        "symbolIcon.unitForeground": "#f0f",
+        // "symbolIcon.typeParameterForeground": "#f0f",
+        // "symbolIcon.unitForeground": "#f0f",
         "symbolIcon.variableForeground": "#c89393", //8
 
         // Debug Icons colors
