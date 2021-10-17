@@ -823,7 +823,7 @@
 			"name": "Headings",
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#acafbf"
+				"foreground": "#bfb1a3"
 			}
 		},
 		{
@@ -872,14 +872,14 @@
 			"name": "[VSCODE-CUSTOM] Markdown headings",
 			"scope": "entity.name.section.markdown",
 			"settings": {
-				"foreground": "#acafbf"
+				"foreground": "#bfb1a3"
 			}
 		},
 		{
 			"name": "[VSCODE-CUSTOM] Markdown heading Punctuation Definition",
 			"scope": "punctuation.definition.heading.markdown",
 			"settings": {
-				"foreground": "#acafbf"
+				"foreground": "#9fb4bf"
 			}
 		},
 		{
