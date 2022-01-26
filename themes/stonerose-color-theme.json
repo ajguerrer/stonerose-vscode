@@ -1138,7 +1138,7 @@
 			"name": "php illegal.non-null-typehinted",
 			"scope": "invalid.illegal.non-null-typehinted.php",
 			"settings": {
-				"foreground": "#f44747"
+				"foreground": "#C2A3A3"
 			}
 		},
 		{
@@ -1271,7 +1271,7 @@
 			"name": "rgb value less",
 			"scope": "less rgb-value",
 			"settings": {
-				"foreground": "#f0e5db"
+				"foreground": "#C2A3A3"
 			}
 		},
 		{
@@ -1324,7 +1324,7 @@
 		{
 			"scope": "token.error-token",
 			"settings": {
-				"foreground": "#f44747"
+				"foreground": "#C2A3A3"
 			}
 		},
 		{
@@ -1870,7 +1870,7 @@
 	"colors": {
 		"foreground": "#AFB0B6",
 		"focusBorder": "#00000000",
-		"selection.background": "#5e676e",
+		"selection.background": "#61636B",
 		"scrollbar.shadow": "#494A50",
 		"activityBar.foreground": "#AFB0B6",
 		"activityBar.background": "#303136",
@@ -1940,7 +1940,7 @@
 		"inputOption.activeBorder": "#00000000",
 		"inputOption.activeForeground": "#AFB0B6",
 		"input.placeholderForeground": "#797B86",
-		"textLink.foreground": "#9badbf",
+		"textLink.foreground": "#A3B8C2",
 		"editor.background": "#303136",
 		"editor.foreground": "#AFB0B6",
 		"editorLineNumber.foreground": "#797B86",
@@ -2004,7 +2004,7 @@
 		"badge.background": "#C2A3C2",
 		"badge.foreground": "#303136",
 		"terminal.foreground": "#AFB0B6",
-		"terminal.selectionBackground": "#5e676e",
+		"terminal.selectionBackground": "#61636B",
 		"terminalCursor.background": "#61636B",
 		"terminalCursor.foreground": "#C9CACF",
 		"terminal.border": "#80808059",
