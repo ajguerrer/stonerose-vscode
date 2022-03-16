@@ -1985,6 +1985,8 @@
 		"editorInfo.foreground": "#A3C2B5",
 		"editorInfo.background": "#00000000",
 		"editorInfo.border": "#00000000",
+		"editorInlayHint.foreground": "#93959F",
+		"editorInlayHint.background": "#00000000",
 		"editorGutter.background": "#303136",
 		"editorGutter.modifiedBackground": "#C2A3C2",
 		"editorGutter.addedBackground": "#A8C2A3",
