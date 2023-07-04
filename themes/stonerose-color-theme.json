@@ -1812,7 +1812,7 @@
 			"name": "Comments",
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#7D808C"
 			}
 		},
