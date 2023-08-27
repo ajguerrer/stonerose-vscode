@@ -1,0 +1,15 @@
+stonerose0 = "#303033" // background
+stonerose1 = "#48484D" // sidebar/titlebar
+stonerose2 = "#6C6C73" // selection background
+stonerose3 = "#909099" // comments, accent background
+stonerose4 = "#9C9CA6" // light accent background
+stonerose5 = "#B4B4BF" // foreground
+stonerose6 = "#CCCCD9" // selection foreground
+stonerose7 = "#E4E4F2" // accent foreground
+stonerose8 = "#BF9D9D" // red
+stonerose9 = "#BFAE9D" // orange
+stoneroseA = "#BF9BAE" // pink
+stoneroseB = "#AEBF9D" // green
+stoneroseC = "#9DBFAE" // teal
+stoneroseD = "#9DAEBF" // blue
+stoneroseE = "#AE9DBF" // purple
